@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Dream World",
+  "base_artist": "Manu Lopez、Jjos",
+  "createdAt": "2025-12-01T20:33:57.314092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dream World",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/01_Dream_World_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Living In A Dream World",
+      "artist": "House of Lords",
+      "has_synced": false,
+      "path": "select/02_Living_In_A_Dream_World_House_of_Lords.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "3D Dream - World Mix",
+      "artist": "Jerry Paper",
+      "has_synced": true,
+      "path": "select/03_3D_Dream_-_World_Mix_Jerry_Paper.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dream World",
+      "artist": "The Monkees",
+      "has_synced": true,
+      "path": "select/04_Dream_World_The_Monkees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dream World",
+      "artist": "The Monkees",
+      "has_synced": false,
+      "path": "select/05_Dream_World_The_Monkees.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dream World",
+      "artist": "The Growlers",
+      "has_synced": true,
+      "path": "select/06_Dream_World_The_Growlers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dream World (Acoustic Version)",
+      "artist": "The Growlers",
+      "has_synced": false,
+      "path": "select/07_Dream_World_(Acoustic_Version)_The_Growlers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dream Land! Dream World!",
+      "artist": "A・ZU・NA",
+      "has_synced": true,
+      "path": "select/08_Dream_Land!_Dream_World!_A・ZU・NA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dream World",
+      "artist": "Peggy March",
+      "has_synced": false,
+      "path": "select/09_Dream_World_Peggy_March.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dream World",
+      "artist": "Little Peggy March",
+      "has_synced": false,
+      "path": "select/10_Dream_World_Little_Peggy_March.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Watched My Dream World Crumble Like Clay",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/11_I_Watched_My_Dream_World_Crumble_Like_Clay_Hank_Williams.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dream World",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/12_Dream_World_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dream World",
+      "artist": "Bizzle",
+      "has_synced": true,
+      "path": "select/13_Dream_World_Bizzle.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dream World (Wings of Love)",
+      "artist": "The Temptations",
+      "has_synced": true,
+      "path": "select/14_Dream_World_(Wings_of_Love)_The_Temptations.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "She's Living in a Dream World",
+      "artist": "Steve Forbert",
+      "has_synced": false,
+      "path": "select/15_She's_Living_in_a_Dream_World_Steve_Forbert.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dream Land!Dream World! (Off Vocal)",
+      "artist": "A・ZU・NA",
+      "has_synced": true,
+      "path": "select/16_Dream_Land!Dream_World!_(Off_Vocal)_A・ZU・NA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dream World",
+      "artist": "NaNa",
+      "has_synced": false,
+      "path": "select/pl_01_Dream_World_NaNa.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Dream World",
+      "artist": "NaNa",
+      "has_synced": false,
+      "path": "select/pl_02_Dream_World_NaNa.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Dreamworld",
+      "artist": "NaNa",
+      "has_synced": false,
+      "path": "select/pl_03_Dreamworld_NaNa.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Dream World",
+      "artist": "NaNa",
+      "has_synced": false,
+      "path": "select/pl_04_Dream_World_NaNa.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Dreamworld",
+      "artist": "NaNa",
+      "has_synced": false,
+      "path": "select/pl_05_Dreamworld_NaNa.txt"
+    }
+  ]
+}
