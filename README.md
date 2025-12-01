@@ -1,0 +1,39 @@
+# Manu Lopez、Jjos – Dream World
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Dream World (uh)
+Dream World (uh)
+Dream World (uh)
+I Got green めっちゃgood
+Dream World (uh)
+Dream World (uh)
+Dream World (uh)
+お金持ち気分
+好きなことやる2023
+好きなとこ行く新作Jordan
+葉巻吸いながらcudiの映画
+見てるけど俺ならいつでもhigh
+高級焼肉食ってるNight
+東京見渡すDay ‘N' Nite
+I am just so unknown
+Because I wanna be to
+fxckin' star
+東京メトロ日比谷線
+まるで上層階級の金持ち
+今日のランチ
+バーガー食ったら収まるマンチ
+田舎からいつか東京暮らし
+見下ろしたい人六本木から
+毎日Change New AF1
+JUMPでDUNK ラップでONE
+Dream World (uh)
+Dream World (uh)
+Dream World (uh)
+I Got green めっちゃgood
+Dream World (uh)
+Dream World (uh)
+Dream World (uh)
+お金持ち気分 ×2
+```
